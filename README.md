@@ -1,6 +1,7 @@
 # Shell implementation in C
 
-This is a basic implementation of shell in C using syscalls.
+A custom terminal shell coded in C++ based on the POSIX architecture with integrated syscalls.
+All common shell commands are natively supported with syscalls used for less commonly used commands.
 
 ### How to run?
 * Run make on your terminal 
